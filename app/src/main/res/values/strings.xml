@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TruxRutas</string>
+    <string name="nav_routes">Rutas</string>
+    <string name="nav_live_map">Mapa en Vivo</string>
+    <string name="nav_stops">Paraderos</string>
+    <string name="nav_incidents">Incidencias</string>
+    <string name="search_routes_placeholder">Buscar ruta, empresa, avenida o destino…</string>
+    <string name="search_stops_placeholder">Buscar paradero, óvalo o avenida…</string>
+    <string name="official_source_badge">Fuente: MPT &amp; Truxdi Oficial</string>
+    <string name="proximity_alert_active">Alerta de proximidad activa</string>
+    <string name="report_incident_cta">Reportar Incidencia</string>
+</resources>

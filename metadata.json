@@ -1,0 +1,6 @@
+{
+  "name": "TruxRutas",
+  "description": "Rutas oficiales de micros y colectivos de Trujillo (MPT y Truxdi), paraderos cercanos con alertas en tiempo real, seguimiento en vivo con ETA y reportes de incidencias viales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
